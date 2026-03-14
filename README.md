@@ -89,21 +89,21 @@ Observation:
 ---
 
 ## Project Structure
+
+```
 trader_analysis/
 │
 ├── data/
-│ ├── fear_greed_index.csv
-│ ├── historical_data.csv
+│   ├── fear_greed_index.csv
+│   └── historical_data.csv
 │
 ├── images/
-│ └── winrate_vs_sentiment.png
+│   └── winrate_vs_sentiment.png
 │
 ├── traders_analysis.ipynb
 ├── report.txt
 ├── README.md
-
-
----
+```
 
 ## Conclusion
 

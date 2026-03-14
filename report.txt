@@ -1,0 +1,24 @@
+Trader Performance vs Market Sentiment Analysis
+
+Objective:
+To analyze the relationship between market sentiment and trader performance using historical trading data and the Fear & Greed Index.
+
+Work Done:
+- Loaded and cleaned both datasets
+- Converted timestamps into a common date format
+- Merged trader and sentiment datasets on date
+- Calculated average PnL, total PnL, and win rate by sentiment
+- Analyzed profit against Fear & Greed index values
+- Compared BUY and SELL performance
+- Analyzed direction-based win rates and PnL
+
+Key Findings:
+1. Fear sentiment produced the highest total profit.
+2. Extreme Greed produced the highest average profit per trade.
+3. Extreme Greed also had the highest win rate.
+4. Neutral sentiment showed relatively lower profitability.
+5. SELL trades had higher average profit than BUY trades.
+6. Trader performance varied by both market sentiment and trade direction.
+
+Conclusion:
+The analysis shows that market sentiment significantly affects trader profitability. Strong emotional market conditions, especially Fear and Extreme Greed, created better trading opportunities.

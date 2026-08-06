@@ -2,11 +2,17 @@
 
 ## Overview
 
+This project focuses on exploratory data analysis and insight generation 
+rather than deployment — the goal was to practice merging real-world 
+datasets and extracting behavioral patterns from trading data.
+
 This project analyzes the relationship between trader performance and market sentiment using historical trading data and the Fear & Greed Index.
 
 The goal of this analysis is to understand how market sentiment (Fear, Greed, Neutral, Extreme Fear, Extreme Greed) affects trader profitability and win rate.
 
 This project was completed as part of a data science assignment to explore real-world trading data and generate insights using Python and Pandas.
+
+
 
 ---
 
